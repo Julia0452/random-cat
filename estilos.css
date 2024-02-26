@@ -39,6 +39,7 @@ img {
     position: absolute;
     left: calc(50% - 25px);
     top: 200px;
+    display: none;
 }
 
 @keyframes spinner {
