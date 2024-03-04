@@ -27,6 +27,7 @@ button:hover {
 
 img {
     height: 400px;
+    object-fit: contain;
 }
 
 .spinner {
